@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Interface parent="Configuration">
+   <bLength             type = "ubyte">9</bLength>
+   <bDescriptorType     type = "ubyte">4</bDescriptorType>
+   <bInterfaceNumber    type = "ubyte"/>
+   <bAlternateSetting   type = "ubyte"/>
+   <bNumEndpoints       type = "ubyte"/>
+   <bInterfaceClass     type = "ubyte"/>
+   <bInterfaceSubclass  type = "ubyte"/>
+   <iInterface/>
+</Interface>

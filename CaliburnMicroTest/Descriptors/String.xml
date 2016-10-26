@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<String>
+  <bLength type="ubyte"/>
+  <bDescriptorType type="ubyte">3</bDescriptorType>
+  <wLANGID type="ushort" id="1"/>
+</String>

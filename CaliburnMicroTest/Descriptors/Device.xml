@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Device parent="root">
+    <bLength            type = "ubyte">18</bLength>
+    <bDescriptorType    type = "ubyte">1</bDescriptorType>
+    <bcdUSB             type = "ushort"/>
+    <bDeviceClass       type = "ubyte"/>
+    <bDeviceSublcass    type = "ubyte"/>
+    <bDeviceProtocol    type = "ubyte"/>
+    <bMaxPacketSize     type = "ubyte"/>
+    <idVendor           type = "ushort"/>
+    <idProduct          type = "ushort"/>
+    <bcdDevice          type = "ubyte"/>
+    <iManufacturer      type = "ubyte"/>
+    <iProduct           type = "ubyte"/>
+    <iSerialNumber      type = "ubyte"/>
+    <bNumConfigurations type = "ubyte"/>
+</Device>

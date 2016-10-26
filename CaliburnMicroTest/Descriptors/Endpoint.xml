@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Endpoint parent="Interface">
+   <bLength          type = "ubyte">7</bLength>
+   <bDescriptorType  type = "ubyte">5</bDescriptorType>
+   <bEndpointAddress type = "ubyte"/>
+   <bmAttributes     type = "ubyte"/>
+   <wMaxPacketSize   type = "ushort"/>
+   <bInterval        type = "ubyte"/>
+</Endpoint>

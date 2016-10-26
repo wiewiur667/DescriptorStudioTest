@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration parent="Device">
+   <bLength             type = "ubyte"/>
+   <bDescriptorType     type = "ubyte">2</bDescriptorType>
+   <wTotalLength        type = "ushort"/>
+   <bNumInterfaces      type = "ubyte"/>
+   <bConfigurationValue type = "ubyte"/>
+   <iConfiguration      type = "ubyte"/>
+   <bmAttributes        type = "ubyte"/>
+   <bMaxPower           type = "ubyte"/>
+</Configuration>
